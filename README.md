@@ -15,4 +15,10 @@ Deliverables available:
 
 3- A SQL Database to get the cleaned data from S3
 
+Jedha Fullstack Datascientist Bootcamp - Bloc 1
+
+Link to video :https://share.vidyard.com/watch/c1qkq45wgnpghBChTNFoqJ?
+
+lisbiliroglu@gmail.com
+
 
