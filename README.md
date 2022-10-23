@@ -1,5 +1,4 @@
-# Kayak_ETL_Project
-Project on Extract, Transform and Load - Kayak Trip Planning
+# Kayak Trip Planning - Project on Extract, Transform and Load
 
 The goal is to create an app that will recommend users where to plan their next holidays. It takes real up-to-date data on Weather and Hotels in the area. The application will recommend the best destinations and hotels in France.
 
