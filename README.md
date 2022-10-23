@@ -11,7 +11,9 @@ All the data will be stored in a data lake in cloud. ETL process will be run fro
 Deliverables available:
 
 1- Two maps with TOP 5 destinations and TOP 20 hotels in the area
+
 2- A .csv file in an S3 bucket containing enriched information about weather and hotels for each French city
+
 3- A SQL Database to get the cleaned data from S3
 
 
