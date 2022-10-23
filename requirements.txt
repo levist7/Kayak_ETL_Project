@@ -4,3 +4,9 @@ matplotlib
 plotly
 seaborn
 ipython
+requests
+boto3
+os
+logging
+scrapy
+datetime
